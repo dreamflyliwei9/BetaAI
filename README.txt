@@ -1,1 +1,1 @@
-这是我刚装好GitHub后新建的工程，只是测试一下。
+this is just a test.
