@@ -1,4 +1,4 @@
-OBJ = test
+OBJ = BetaAI
 CFLAGS = -g -Wall
 
 all : $(OBJ)
